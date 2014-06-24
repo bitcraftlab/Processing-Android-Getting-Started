@@ -23,7 +23,8 @@ You can then extract different versions of Processing there, and rename them acc
 
 ## Installing the SDK
 
-If all you ever want is to create quick and dirty prototypes, you may never need to work with and actual IDE. In this case all you need are the Android [SDK tools]((https://developer.android.com/sdk/index.html).
+If all you ever want is to create quick and dirty prototypes, you may never need to work with and actual IDE. In this case all you need are the Android [SDK tools](https://developer.android.com/sdk/index.html).
+For OSX the file can be found [here](http://dl.google.com/android/android-sdk_r22.6.2-macosx.zip)
 
 ## Installing an IDE
 
